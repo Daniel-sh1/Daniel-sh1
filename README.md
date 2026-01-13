@@ -1,11 +1,11 @@
-<h1 align="center">Привет👋 Меня зовут Даниил!</h1>
+<h1 align="center">Hello! I'm Daniil, an aspiring Python developer. 👨‍💻</h1>
 
 
 <h3 align="left">Обо мне 👩‍💻  </h3>
 
 ###
 
-<p align="left">Я начинающий Python разработчик. Мой путь в it начался не так давно, около полутора лет назад. В настоящий момент мое обучение продолжается и я уже создал свой первый проект на GitGub. 
+<p align="left">Turning logic into Python code. 1.5 years into the journey, first project on GitHub is just the beginning. Learning, building, and looking for interesting challenges to grow as a developer.
 
 <h2 align="left">🛠 Языки:</h2>
 
@@ -16,4 +16,4 @@
 
 ## 🔭 Контакты
 
-Если у вас есть вопросы, вы можете связаться со мной по электронной почте: hustler_hk@proton.me
+If you have any questions, feel free to reach out to me via email. hustler_hk@proton.me
