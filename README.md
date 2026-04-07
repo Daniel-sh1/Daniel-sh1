@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Turning logic into Python code. 1.5 years into the journey, first project on GitHub is just the beginning. Learning, building, and looking for interesting challenges to grow as a developer.
+<p align="left">Algorithms → Syntax → Working code. 2.5 years in the game — first public project is just a warm-up. Constant skill upgrade through real-world challenges. Looking for non-trivial problems that make the brain boil. Throw a challenge my way — I'll turn it into a commit.
 
 <h2 align="left">🛠 Languages:</h2>
 
