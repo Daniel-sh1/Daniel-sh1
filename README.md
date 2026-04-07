@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Daniel, an aspiring Python developer. 👨‍💻</h1>
+<h1 align="center">Hello! I'm Daniel. I build websites, connect databases, and write backend code in Python. I'm growing in fullstack development. 👨‍💻</h1>
 
 <h3 align="left">About me 👩‍💻  </h3>
 
